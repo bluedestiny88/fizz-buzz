@@ -13,7 +13,7 @@ public enum FizzBuzz {
       result.add(FIZZ);
     }
     if (num % 5 == 0) {
-      result.add(BUZZ);
+      result.add(BUZZ);   
     }
     return result;
   }
